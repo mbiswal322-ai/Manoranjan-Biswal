@@ -1,0 +1,8 @@
+{
+  "name": "CleanCut AI - Product Photo Studio & Background Cleaner",
+  "description": "Remove backgrounds, erase clutter, and transform product photos into commercial studio quality with simple text instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
